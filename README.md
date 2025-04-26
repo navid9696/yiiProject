@@ -37,7 +37,7 @@ Projekt jest oparty o **Yii2 Basic Template**, z dodatkowymi zmianami wizualnymi
 
 ## Struktura katalogów
 
-
+```
 assets/         // Definicje assetów
 commands/       // Konsolowe komendy Yii
 config/         // Konfiguracja aplikacji
@@ -49,7 +49,7 @@ tests/          // Testy aplikacji
 vendor/         // Zależności z Composer
 views/          // Widoki (index, about, login itd.)
 web/            // Publiczne pliki aplikacji (index.php, CSS, favicon)
-
+```
 
 
 Projekt stworzony w celach nauki frameworka Yii2.  
