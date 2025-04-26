@@ -1,8 +1,3 @@
-
-<p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Anime_eye.svg" height="100px" alt="Anime World logo">
-</p>
-
 <h1 align="center">Anime World</h1>
 
 <p align="center">
